@@ -15,6 +15,6 @@ Practicing html
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misskalyani&show_icons=true&theme=radical&hide_border=false&locale=en" alt="misskalyani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&" alt="misskalyani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false&" alt="misskalyani" /></p>
 
 ![](https://github-readme-streak-sats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false)<br/>
