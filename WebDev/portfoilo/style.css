@@ -1,0 +1,77 @@
+.bdy{
+    background: #B2A59B;
+    
+}
+
+#info{
+    border: none;
+    border-radius: 15px;
+    background: #EADFB4;
+    height: 350px;
+    margin-top: 6%;
+    margin-left: 8%;
+}
+
+#details{
+   border: none;
+   border-radius: 15px;
+   background: #EADFB4;
+   margin: 1.4%;
+   height: 720px;
+   padding-right: 70%;
+}
+
+.sahil{
+    border: none;
+    border-radius: 15px;
+    margin: 5%;
+    margin-bottom: 1px;
+    
+}
+
+.intro{
+    margin: 20px;
+    font-size: 200%;
+}
+
+.name{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container1 {
+    max-width: 400px; 
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .skill-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .skill-name {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .progress-bar {
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 10px;
+  }
+  
+  .progress-bar {
+    background-color: #ff6f61;
+  }

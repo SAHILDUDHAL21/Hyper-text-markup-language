@@ -1,0 +1,28 @@
+#ww{
+	font-family: Nimbus Mono PS Bold;
+	color: Red;
+}
+
+.aa{
+	border-style: dashed;
+	background-color: F5D5CB ;
+	border-color: black;
+	border-radius: 10px;
+}
+
+.ab{
+	margin: 15px;
+}
+
+.jj{
+	border: solid;
+	border-width: 5px;
+	border-radius: 20px;
+}
+
+#cont{
+	border: solid;
+	border-width: 5px;
+	border-radius: 20px;
+	border-color: black;
+}
